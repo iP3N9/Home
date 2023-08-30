@@ -96,6 +96,7 @@ watch(
 
       .bg {
         font-size: 5rem;
+        margin-left: 12px;
       }
 
       .sm {
